@@ -1,4 +1,4 @@
-### Olá! me chamo Marco Antônio 🙋🏾‍♂️
+### Olá! Me chamo Marco Antônio 🙋🏾‍♂️
 
 - 🏫Cursando ensino superior em ADS - 3º Semestre
 - 💻Conhecimento em back-end, front-end e banco de dados

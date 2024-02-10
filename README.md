@@ -1,8 +1,8 @@
 ### Olá! Me chamo Marco Antônio 🙋🏾‍♂️
 
-- 🏫Cursando ensino superior em ADS - 3º Semestre
+- 🏫Cursando ensino superior em ADS - 4º Semestre
 - 💻Conhecimento em back-end, front-end e banco de dados
-- 🤓 Estudando: Java, JS, Git
+- 🤓 Estudando: Python, JAVA, Arquitetura de software
 
 
 
